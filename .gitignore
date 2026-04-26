@@ -1,4 +1,6 @@
-*.xlxs
+*.xlsx
 *.csv
 _pycache_/
 .DS_Store
+mahaplot.ipynp
+ 
